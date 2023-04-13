@@ -1,7 +1,7 @@
 {
   "name": "bookshelf-api",
   "version": "1.0.0",
-  "description": "Submission Back-end Developer Dicoding.",
+  "description": "Submission Back-end Developer Dicoding Gilang Muharom.",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
